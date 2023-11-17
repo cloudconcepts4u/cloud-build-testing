@@ -1,1 +1,1 @@
-"Hellloo, world! Thhe timeee is $(date)."
+"Hellloo, world! Thhe timeeee is $(date)."
